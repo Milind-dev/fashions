@@ -1,2 +1,1 @@
-const yes = "yes"
-console.log("dress" , yes)
+console.log("dress", peacock)
